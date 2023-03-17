@@ -5,7 +5,7 @@
   <p>📧hurgj123kr@gmail.com<p>
   <br></br>
   <p>
-	  📚Teach Stack📚
+	  📚Tech Stack📚
   </p>
   <ul>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
