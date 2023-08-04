@@ -8,10 +8,10 @@
 	  📚Tech Stack📚
   </p>
   <ul>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+    <img src="https://img.shields.io/badge/Javascript%20%20-F7DF1E?style=e&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/Mongodb%20%20-47A248?style=e&logo=mongodb&logoColor=white">
+    <img src="https://img.shields.io/badge/Node.js%20%20-339933?style=e&logo=nodedotjs&logoColor=white">
+    <img src="https://img.shields.io/badge/Express%20%20-000000?style=e&logo=express&logoColor=white">
   </ul>
 
   <ul>
