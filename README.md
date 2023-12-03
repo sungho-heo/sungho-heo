@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Javascript%20%20-F7DF1E?style=e&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/Mongodb%20%20-47A248?style=e&logo=mongodb&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js%20%20-339933?style=e&logo=nodedotjs&logoColor=white">
-    <img src="https://img.shields.io/badge/Express%20%20-000000?style=e&logo=express&logoColor=white">
+    <img src="https://img.shields.io/badge/React%20%20-61DAFB?style=e&logo=react&logoColor=white">
   </ul>
 
   <ul>
